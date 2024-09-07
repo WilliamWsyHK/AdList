@@ -1,0 +1,19 @@
+man\.vm5apis\.com$ -- VMFive
+pt0\.vm5apis\.com$ -- VMFive
+ad.*\.ettoday\.net$ -- ETtoday新聞雲廣告 (ETtoday Ads)
+mobads(?:logs)?\.baidu.com$ -- 百度廣告 (Baidu Ads)
+(\.|^)ashifen\.com$ -- 百度十分系統 (Baidu Shi-fen system)
+(\.|^)a\.shifen\.com$ -- 百度十分系統 (Baidu Shi-fen system)
+shifen\.com$ -- 百度十分系統 (Baidu Shi-fen system)
+mobads-pre-config\.cdn\.bcebos\.com$ -- 廣告 (Ads using Baidu Object Storage CDN)
+mbd\.wshifen\.com$ -- 百度十分系統 (Baidu Shi-fen system)
+mobads(?:-logs)?\.e\.shifen\.com$ -- 百度十分系統 (Baidu Shi-fen system)
+adim\.pinduoduo\.com$ -- 拼多多廣告 (Pinduoduo)
+log-api\.pangolin-sdk-toutiao-b\.com$ -- 今日頭條廣告 (Pangolin Ads)
+pglstatp-toutiao\.com$ -- 今日頭條 (Pangolin Ads)
+pangolin-sdk-toutiao\d*?\.com$ -- 今日頭條廣告 (Pangolin Ads)
+pangolin-sdk-toutiao[:digit:]*?\.com$ -- 今日頭條廣告 (Pangolin Ads)
+mon\.zijieapi\.com$ -- 抖音廣告 (Douyin ZiJie API Ads)
+hcdndyn\.zjtd\.c\.cdnhwc2\.com$ -- Suspicious Ads
+mssdk\.volces\.com\.queniusz\.com$ -- 廣告 (Ads using Alibaba Cloud CDN)
+analytics\.feeder\.co$ -- Feeder
